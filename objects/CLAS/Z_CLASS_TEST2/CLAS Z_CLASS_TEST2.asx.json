@@ -4,7 +4,7 @@
   "data":
   [
    {
-    "TYPENAME":"Z_MYFIRSTGCTS_CLASS",
+    "TYPENAME":"Z_CLASS_TEST2",
     "STATE":"A",
     "TYPEKIND":"CLAS"
    }
@@ -15,9 +15,9 @@
   "data":
   [
    {
-    "CLSNAME":"Z_MYFIRSTGCTS_CLASS",
+    "CLSNAME":"Z_CLASS_TEST2",
     "CLSTYPE":0,
-    "UUID":"tfBIE8OLH+CQpRHm2sxtNA==",
+    "UUID":"tfBIE8OLH+CQpoehA2wyiw==",
     "REMOTE":""
    }
   ]
@@ -27,7 +27,7 @@
   "data":
   [
    {
-    "CLSNAME":"Z_MYFIRSTGCTS_CLASS",
+    "CLSNAME":"Z_CLASS_TEST2",
     "VERSION":1,
     "CATEGORY":0,
     "EXPOSURE":2,
@@ -71,9 +71,9 @@
   "data":
   [
    {
-    "CLSNAME":"Z_MYFIRSTGCTS_CLASS",
+    "CLSNAME":"Z_CLASS_TEST2",
     "LANGU":"E",
-    "DESCRIPT":"Test.."
+    "DESCRIPT":"Test"
    }
   ]
  },
@@ -82,14 +82,8 @@
   "data":
   [
    {
-    "CLSNAME":"Z_MYFIRSTGCTS_CLASS",
+    "CLSNAME":"Z_CLASS_TEST2",
     "CMPNAME":"HELLOWORLD",
-    "CMPTYPE":1,
-    "MTDTYPE":0
-   },
-   {
-    "CLSNAME":"Z_MYFIRSTGCTS_CLASS",
-    "CMPNAME":"TEST1",
     "CMPTYPE":1,
     "MTDTYPE":0
    }
@@ -100,7 +94,7 @@
   "data":
   [
    {
-    "CLSNAME":"Z_MYFIRSTGCTS_CLASS",
+    "CLSNAME":"Z_CLASS_TEST2",
     "CMPNAME":"HELLOWORLD",
     "VERSION":1,
     "ALIAS":"",
@@ -108,63 +102,6 @@
     "EXPOSURE":2,
     "STATE":1,
     "EDITORDER":1,
-    "LOCKED":"",
-    "DISPID":0,
-    "R3RELEASE":"757",
-    "AUTHOR":"",
-    "CREATEDON":"0000-00-00",
-    "CHANGEDBY":"",
-    "CHANGEDON":"0000-00-00",
-    "MTDDECLTYP":1,
-    "MTDABSTRCT":"",
-    "MTDFINAL":"",
-    "DSRNOTEOM":"",
-    "EDTX":"",
-    "MTDNEWEXC":"",
-    "MTDREPLACE":"",
-    "MTDOPTNL":"",
-    "MTDAMDPRDONLY":"",
-    "MTDAMDPCDSCLNT":"",
-    "ATTDECLTYP":0,
-    "ATTDYNAMIC":"",
-    "ATTGETMTD":"",
-    "ATTSETMTD":"",
-    "ATTRDONLY":"",
-    "ATTVALUE":"",
-    "ATTPERSIST":"",
-    "ATTBUSOBJ":"",
-    "ATTKEYFLD":"",
-    "ATTEXPVIRT":0,
-    "EVTDECLTYP":0,
-    "TYPDUMMY":"",
-    "TYPTYPE":0,
-    "TYPE":"",
-    "TABLEOF":"",
-    "SRCROW1":0,
-    "SRCCOLUMN1":0,
-    "SRCROW2":0,
-    "SRCCOLUMN2":0,
-    "REFCLSNAME":"",
-    "REFINTNAME":"",
-    "REFCMPNAME":"",
-    "BCMTDINST":"",
-    "BCMTDCAT":0,
-    "BCMTDDIA":"",
-    "BCMTDCOM":"",
-    "BCMTDSYN":0,
-    "BCEVTCAT":0,
-    "TYPESRC_LENG":0,
-    "TYPESRC":""
-   },
-   {
-    "CLSNAME":"Z_MYFIRSTGCTS_CLASS",
-    "CMPNAME":"TEST1",
-    "VERSION":1,
-    "ALIAS":"",
-    "REDEFIN":"",
-    "EXPOSURE":2,
-    "STATE":1,
-    "EDITORDER":0,
     "LOCKED":"",
     "DISPID":0,
     "R3RELEASE":"757",
@@ -220,16 +157,10 @@
   "data":
   [
    {
-    "CLSNAME":"Z_MYFIRSTGCTS_CLASS",
+    "CLSNAME":"Z_CLASS_TEST2",
     "CMPNAME":"HELLOWORLD",
     "LANGU":"E",
-    "DESCRIPT":"testing"
-   },
-   {
-    "CLSNAME":"Z_MYFIRSTGCTS_CLASS",
-    "CMPNAME":"TEST1",
-    "LANGU":"E",
-    "DESCRIPT":""
+    "DESCRIPT":"Demo"
    }
   ]
  },
@@ -240,12 +171,12 @@
    {
     "PGMID":"R3TR",
     "OBJECT":"CLAS",
-    "OBJ_NAME":"Z_MYFIRSTGCTS_CLASS",
+    "OBJ_NAME":"Z_CLASS_TEST2",
     "KORRNUM":"",
     "SRCSYSTEM":"...",
     "AUTHOR":"ROPL073",
     "SRCDEP":"",
-    "DEVCLASS":"Z_MYFIRST_KUMAR_GCTS",
+    "DEVCLASS":"Z_MYFIRST_GCTS1",
     "GENFLAG":"",
     "EDTFLAG":"",
     "CPROJECT":" S",
@@ -268,21 +199,15 @@
   "data":
   [
    {
-    "CLASSNAME":"Z_MYFIRSTGCTS_CLASS",
+    "CLASSNAME":"Z_CLASS_TEST2",
     "METHODINDX":0,
     "METHODNAME":" ",
     "FLAGS":0
    },
    {
-    "CLASSNAME":"Z_MYFIRSTGCTS_CLASS",
+    "CLASSNAME":"Z_CLASS_TEST2",
     "METHODINDX":1,
     "METHODNAME":"HELLOWORLD",
-    "FLAGS":0
-   },
-   {
-    "CLASSNAME":"Z_MYFIRSTGCTS_CLASS",
-    "METHODINDX":2,
-    "METHODNAME":"TEST1",
     "FLAGS":0
    }
   ]
@@ -292,7 +217,7 @@
   "data":
   [
    {
-    "NAME":"Z_MYFIRSTGCTS_CLASS===========CCAU",
+    "NAME":"Z_CLASS_TEST2=================CCAU",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
@@ -305,7 +230,7 @@
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_MYFIRSTGCTS_CLASS===========CCDEF",
+    "NAME":"Z_CLASS_TEST2=================CCDEF",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
@@ -318,7 +243,7 @@
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_MYFIRSTGCTS_CLASS===========CCIMP",
+    "NAME":"Z_CLASS_TEST2=================CCIMP",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
@@ -331,7 +256,7 @@
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_MYFIRSTGCTS_CLASS===========CCMAC",
+    "NAME":"Z_CLASS_TEST2=================CCMAC",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
@@ -344,7 +269,7 @@
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_MYFIRSTGCTS_CLASS===========CI",
+    "NAME":"Z_CLASS_TEST2=================CI",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
@@ -357,7 +282,7 @@
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_MYFIRSTGCTS_CLASS===========CM001",
+    "NAME":"Z_CLASS_TEST2=================CM001",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
@@ -370,7 +295,7 @@
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_MYFIRSTGCTS_CLASS===========CM002",
+    "NAME":"Z_CLASS_TEST2=================CO",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
@@ -383,20 +308,7 @@
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_MYFIRSTGCTS_CLASS===========CO",
-    "VARCL":"X",
-    "DBAPL":"S",
-    "DBNA":"D$",
-    "SUBC":"I",
-    "APPL":"S",
-    "UNAM":"ROPL073",
-    "RMAND":"100",
-    "FIXPT":"X",
-    "LDBNAME":"D$S",
-    "UCCHECK":"X"
-   },
-   {
-    "NAME":"Z_MYFIRSTGCTS_CLASS===========CP",
+    "NAME":"Z_CLASS_TEST2=================CP",
     "EDTX":"X",
     "VARCL":"X",
     "DBAPL":"S",
@@ -410,7 +322,7 @@
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_MYFIRSTGCTS_CLASS===========CT",
+    "NAME":"Z_CLASS_TEST2=================CT",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
@@ -422,7 +334,7 @@
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_MYFIRSTGCTS_CLASS===========CU",
+    "NAME":"Z_CLASS_TEST2=================CU",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
