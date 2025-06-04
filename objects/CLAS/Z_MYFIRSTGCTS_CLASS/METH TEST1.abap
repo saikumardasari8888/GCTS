@@ -1,3 +1,3 @@
   method TEST1.
-    write "Test"
+    write 'Test'.
   endmethod.
