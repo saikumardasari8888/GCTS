@@ -1,0 +1,2 @@
+  method SAMPLEMET.
+  endmethod.
