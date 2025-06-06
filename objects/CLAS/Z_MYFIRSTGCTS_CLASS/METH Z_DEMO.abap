@@ -6,4 +6,6 @@
     write 'Hellow World3'.
     write 'Hellow World34'.
     write 'Hellow World5'.
+     write 'Hellow World5'.
+      write 'Hellow World5'.
   endmethod.
