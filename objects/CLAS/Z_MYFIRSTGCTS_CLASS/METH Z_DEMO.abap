@@ -9,4 +9,5 @@
     write 'Hellow World8'.
     write 'Hellow World9'.
     write 'Hellow World1.1'.
+    write 'Hellow World1.2'.
   endmethod.
