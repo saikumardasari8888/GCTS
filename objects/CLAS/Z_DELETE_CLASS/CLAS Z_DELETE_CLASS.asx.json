@@ -83,7 +83,7 @@
   [
    {
     "CLSNAME":"Z_DELETE_CLASS",
-    "CMPNAME":"TESTING",
+    "CMPNAME":"Z_DELETE_METHOD1",
     "CMPTYPE":1,
     "MTDTYPE":0
    }
@@ -95,7 +95,7 @@
   [
    {
     "CLSNAME":"Z_DELETE_CLASS",
-    "CMPNAME":"TESTING",
+    "CMPNAME":"Z_DELETE_METHOD1",
     "VERSION":1,
     "ALIAS":"",
     "REDEFIN":"",
@@ -161,6 +161,12 @@
     "CMPNAME":"TESTING",
     "LANGU":"E",
     "DESCRIPT":""
+   },
+   {
+    "CLSNAME":"Z_DELETE_CLASS",
+    "CMPNAME":"Z_DELETE_METHOD1",
+    "LANGU":"E",
+    "DESCRIPT":""
    }
   ]
  },
@@ -207,7 +213,7 @@
    {
     "CLASSNAME":"Z_DELETE_CLASS",
     "METHODINDX":1,
-    "METHODNAME":"TESTING",
+    "METHODNAME":"Z_DELETE_METHOD1",
     "FLAGS":0
    }
   ]

@@ -5,4 +5,4 @@ class Z_DELETE_CLASS definition
 
 public section.
 
-  methods TESTING .
+  methods Z_DELETE_METHOD1 .
