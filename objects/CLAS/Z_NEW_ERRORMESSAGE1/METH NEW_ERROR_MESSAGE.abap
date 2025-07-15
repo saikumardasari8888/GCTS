@@ -1,3 +1,3 @@
   method NEW_ERROR_MESSAGE.
-    "Checking testing
+    "Checking testing testing..
   endmethod.
